@@ -1,0 +1,76 @@
+{
+  "login": {
+    "mobileNo": "9878968587",
+    "password": "hjgjgj"
+  },
+  "serviceCategories": {
+    "isSuccess": true,
+    "data": {
+      "serviceCategories": [
+        {
+          "serviceName": "Pest Control",
+          "subServices": {}
+        },
+        {
+          "serviceName": "Home Appliances",
+          "subServices": {}
+        },
+        {
+          "serviceName": "RO Service & Repair",
+          "subServices": {}
+        },
+        {
+          "serviceName": "Professional Full Home Cleaning",
+          "subServices": {}
+        },
+        {
+          "serviceName": "Carpet Cleaning",
+          "subServices": {}
+        },
+        {
+          "serviceName": "Sofa cleaning",
+          "subServices": {}
+        },
+        {
+          "serviceName": "Professional Kitchen Cleaning",
+          "subServices": {}
+        },
+        {
+          "serviceName": "Plumbers",
+          "subServices": {}
+        },
+        {
+          "serviceName": "Bathrooms Cleaning",
+          "subServices": {}
+        },
+        {
+          "serviceName": "Ceiling Fan Cleaning",
+          "subServices": {}
+        },
+        {
+          "serviceName": "Kitchen Sink cleaning",
+          "subServices": {}
+        },
+        {
+          "serviceName": "Exhaust Fan cleaning",
+          "subServices": {}
+        },
+        {
+          "serviceName": "Window cleaning",
+          "subServices": {}
+        },
+        {
+          "serviceName": "Mirror cleaning",
+          "subServices": {}
+        },
+        {
+          "serviceName": "Gas stove cleaning",
+          "subServices": {}
+        }
+      ]
+    }
+  },
+  "bestOffers": [
+    {}
+  ]
+}
